@@ -14,7 +14,7 @@ class App extends Component {
         <Header />
         <Container className="py-3">
           <Row>
-            <MainPanel />
+            <MainPanel name="Vinit" />
             <SidePanel />
           </Row>
         </Container>

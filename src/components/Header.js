@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <div>
         <Navbar color="light" light expand="md">
-          <div class="container">
+          <div className="container">
             <NavbarBrand>Lloyds Banking Group</NavbarBrand>
           </div>
         </Navbar>
